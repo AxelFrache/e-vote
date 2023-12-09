@@ -1,5 +1,5 @@
 <h1 align="center">
-eVote: Application de Vote Sécurisé
+e-Vote: Application de Vote Sécurisé
 </h1>
 
 eVote est une application conçue pour réaliser des votes sécurisés, développée en Java dans le cadre d'un projet scolaire. 
